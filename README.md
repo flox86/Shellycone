@@ -53,7 +53,7 @@ Diese können direkt in Visualisierung, Logikbausteinen oder Automationen verwen
 Ziel dieses Projekts ist es, die Integration von Shelly-Geräten in Loxone möglichst einfach, flexibel und transparent zu gestalten – ohne zusätzliche Middleware oder Cloud-Abhängigkeiten.
 
 ## Dateien
-[Geräte]("Shellys/ShellyPlugS")
+- [zu den Geräten...](./Shellys)
 
 ## Lizenz
 
