@@ -31,6 +31,7 @@ Die Addons können einfach über die Loxone Config als virtuelle HTTP-Ein- und A
 ## Nutzung
 
 Nach dem Import stehen folgende Ein- und Ausgänge zur Verfügung:
+
 Eingänge:
 - Relais_0 (Schaltzustand)
 - Power (Leistung in kW)
