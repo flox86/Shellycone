@@ -1,9 +1,13 @@
 # Shellycone
 
-![Platform](https://img.shields.io/badge/platform-ESP32-blue)
-![Arduino](https://img.shields.io/badge/framework-Arduino-green)
+![Platform](https://img.shields.io/badge/platform-Loxone_config-limegreen)
+![Framework](https://img.shields.io/badge/framework-loxone_addon-darkgreen)
+![Extension](https://img.shields.io/badge/language-xml-orange)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-non--commercial-lightgrey)
+
+
+
 
 **Shellycone** stellt eine Sammlung von Loxone-Addons für Shelly-Geräte bereit.
 Die Addons können einfach über die Loxone Config als virtuelle HTTP-Ein- und Ausgänge importiert werden.
